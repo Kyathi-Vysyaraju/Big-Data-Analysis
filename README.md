@@ -43,3 +43,6 @@ Not all columns in a dataset are useful for analysis. Removing irrelevant or red
 Step 6: Saving and Downloading the Processed Data
 After processing, the cleaned dataset is saved back into a CSV format. Since PySpark saves large files in multiple parts, a renaming process is used to merge them into a single, downloadable file. Finally, the cleaned dataset is made available for download, allowing further analysis using other tools.
 
+#OUTPUT
+
+[output.csv](https://github.com/user-attachments/files/19143259/output.csv)
