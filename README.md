@@ -1,17 +1,4 @@
 # Big-Data-Analysis
-
-*COMPANY*: CODTECH IT SOLUTIONS
-
-*NAME*: Kyathi Vysyaraju
-
-*INTERN ID*: CT04WV85
-
-*DOMAIN*: DATA ANALYTICS
-
-*DURATION*: 4 WEEKS
-
-*MENTOR*: NEELA SANTOSH
-
 ##Big data analysis is a crucial process for extracting meaningful insights from massive datasets.
 Step 1: Uploading the ZIP File
 The first step in the process is to upload the ZIP file containing the dataset. Once uploaded, the file is stored in Colab’s virtual environment, making it accessible for further processing.
